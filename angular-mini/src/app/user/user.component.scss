@@ -1,0 +1,13 @@
+.card-content
+{
+  height:160px;
+}
+
+.marked {
+  font-weight:bold;
+}
+
+.hovered{
+  transform:scale(1.05);
+  z-index:10;
+}
